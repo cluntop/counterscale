@@ -1,4 +1,4 @@
 # You also need to specify these as environment variables in 
 # your Cloudflare configuration
 CF_BEARER_TOKEN=''
-CF_ACCOUNT_ID='54ca67319f467774c790fababf906a07'
+CF_ACCOUNT_ID=''
